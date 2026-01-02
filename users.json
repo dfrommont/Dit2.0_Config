@@ -1,0 +1,9 @@
+{
+	users: [
+		{
+			"username": "David",
+			"password_hash": "",
+			"accessibility_mode": "expert",
+		}
+	]
+}
