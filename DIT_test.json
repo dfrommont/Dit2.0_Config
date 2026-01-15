@@ -1,14 +1,19 @@
 {
-    "settings": [
+  "settings": [
+    {
+      "repo_name": "DIT_test",
+      "users": [
         {
-            "repo_name": "DIT_test",
-            "users": [
-                {
-                    "username": "test",
-                    "password": "test",
-                    "account_type": "novice"
-                }
-            ]
+          "account_type": "expert",
+          "password": "David",
+          "username": "David"
+        },
+        {
+          "account_type": 0,
+          "password": "test",
+          "username": "test"
         }
-    ]
+      ]
+    }
+  ]
 }
