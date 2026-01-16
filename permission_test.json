@@ -17,6 +17,11 @@
           "account_type": 1,
           "password": "test2",
           "username": "test2"
+        },
+        {
+          "account_type": 1,
+          "password": "test3",
+          "username": "test3"
         }
       ]
     }
