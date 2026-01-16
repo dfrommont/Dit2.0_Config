@@ -4,8 +4,8 @@
       "repo_name": "permission_test",
       "users": [
         {
-          "account_type": 0,
-          "password": "David3",
+          "account_type": 1,
+          "password": "David7",
           "username": "David"
         }
       ]
