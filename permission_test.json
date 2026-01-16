@@ -1,0 +1,14 @@
+{
+  "settings": [
+    {
+      "repo_name": "permission_test",
+      "users": [
+        {
+          "account_type": 0,
+          "password": "David",
+          "username": "David"
+        }
+      ]
+    }
+  ]
+}
