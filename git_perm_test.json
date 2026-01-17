@@ -1,0 +1,14 @@
+{
+  "settings": [
+    {
+      "repo_name": "git_perm_test",
+      "users": [
+        {
+          "account_type": 1,
+          "password": "David5",
+          "username": "David"
+        }
+      ]
+    }
+  ]
+}
