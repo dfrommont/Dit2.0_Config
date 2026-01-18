@@ -5,8 +5,27 @@
       "users": [
         {
           "account_type": 1,
-          "password": "David5",
           "username": "David"
+        },
+        {
+          "account_type": 1,
+          "username": "David_test"
+        },
+        {
+          "account_type": 1,
+          "username": "David_test2"
+        },
+        {
+          "account_type": 1,
+          "username": "David_test3"
+        },
+        {
+          "account_type": 1,
+          "username": "David_test4"
+        },
+        {
+          "account_type": 1,
+          "username": "David_test5"
         }
       ]
     }
