@@ -27,7 +27,8 @@
           "account_type": 1,
           "username": "David_test5"
         }
-      ]
+      ],
+      "workflow": "blah blah"
     }
   ]
 }
