@@ -26,6 +26,10 @@
         {
           "account_type": 1,
           "username": "David_test5"
+        },
+        {
+          "account_type": "new",
+          "username": "test"
         }
       ],
       "workflow": "blah blah"
