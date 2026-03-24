@@ -1,0 +1,13 @@
+{
+  "settings": [
+    {
+      "repo_name": "cicd_test",
+      "users": [
+        {
+          "account_type": 1,
+          "username": "David"
+        }
+      ]
+    }
+  ]
+}
