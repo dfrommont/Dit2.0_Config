@@ -1,0 +1,13 @@
+{
+  "settings": [
+    {
+      "repo_name": "temp",
+      "users": [
+        {
+          "account_type": 1,
+          "username": "David"
+        }
+      ]
+    }
+  ]
+}
