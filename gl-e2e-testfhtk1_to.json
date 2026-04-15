@@ -1,0 +1,13 @@
+{
+  "settings": [
+    {
+      "repo_name": "gl-e2e-testfhtk1_to",
+      "users": [
+        {
+          "account_type": 1,
+          "username": "Test Module"
+        }
+      ]
+    }
+  ]
+}
