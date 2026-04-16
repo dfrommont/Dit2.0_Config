@@ -1,0 +1,13 @@
+{
+  "settings": [
+    {
+      "repo_name": "gl-e2e-testtnj_lti_",
+      "users": [
+        {
+          "account_type": 1,
+          "username": "Test Module"
+        }
+      ]
+    }
+  ]
+}
