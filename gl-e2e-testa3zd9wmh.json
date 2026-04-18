@@ -6,6 +6,10 @@
         {
           "account_type": 1,
           "username": "Test Module"
+        },
+        {
+          "account_type": 1,
+          "username": "test"
         }
       ]
     }
