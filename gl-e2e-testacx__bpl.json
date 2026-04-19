@@ -1,0 +1,13 @@
+{
+  "settings": [
+    {
+      "repo_name": "gl-e2e-testacx__bpl",
+      "users": [
+        {
+          "account_type": 1,
+          "username": "Test Module"
+        }
+      ]
+    }
+  ]
+}
