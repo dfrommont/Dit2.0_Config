@@ -1,0 +1,13 @@
+{
+  "settings": [
+    {
+      "repo_name": "gl-remote-test_9i7totp",
+      "users": [
+        {
+          "account_type": 1,
+          "username": "Test Module"
+        }
+      ]
+    }
+  ]
+}
