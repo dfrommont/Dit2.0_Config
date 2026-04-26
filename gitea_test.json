@@ -1,0 +1,13 @@
+{
+  "settings": [
+    {
+      "repo_name": "gitea_test",
+      "users": [
+        {
+          "account_type": 1,
+          "username": "Test Module"
+        }
+      ]
+    }
+  ]
+}
