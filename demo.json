@@ -8,6 +8,10 @@
           "username": "demo"
         }
       ]
+    },
+    {
+      "repo_name": "demo",
+      "users": []
     }
   ]
 }
